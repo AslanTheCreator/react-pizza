@@ -9,7 +9,7 @@ const categoryNames = ['Мясные', 'Вегетарианская', 'Грил
 const sortItems = [
   { name: 'популярности', type: 'popular', order: 'desc' },
   { name: 'цене', type: 'price', order: 'desc' },
-  { name: 'алфавит', type: 'name', order: 'asc' },
+  { name: 'алфавиту', type: 'name', order: 'asc' },
 ];
 
 function Home() {
